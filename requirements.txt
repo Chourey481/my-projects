@@ -2,4 +2,12 @@ pandas
 flask
 numpy
 seaborn
+python-dotenv
+mysql-connector-python
+pymysql
+scikit-learn
+seaborn
+catboost
+xgboost
+mlflow
 -e .
